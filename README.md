@@ -1,0 +1,1 @@
+# kongdwm-twrp_device_Xiaomi_pearl
