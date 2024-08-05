@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twtp_pearl.mk
+    $(LOCAL_DIR)/twrp_pearl.mk
 
 COMMON_LUNCH_CHOICES := \
-    twtp_pearl-user \
-    twtp_pearl-userdebug \
-    twtp_pearl-eng
+    twrp_pearl-user \
+    twrp_pearl-userdebug \
+    twrp_pearl-eng
