@@ -20,7 +20,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/pearl/device.mk)
 
 PRODUCT_DEVICE := pearl
-PRODUCT_NAME := omni_pearl
+PRODUCT_NAME := twrp_pearl
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := 23054RA19C
 PRODUCT_MANUFACTURER := xiaomi
